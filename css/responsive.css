@@ -1,0 +1,14 @@
+@media (max-width: 1200px) {
+
+    .section-box {
+        width: 80%;
+    }
+}
+
+@media (max-width: 420px) {
+
+    .section-1 {
+        margin-top: 50px;
+        flex-wrap: wrap;
+    }
+}
